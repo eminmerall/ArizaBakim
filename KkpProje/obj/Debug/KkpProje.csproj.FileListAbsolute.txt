@@ -1,0 +1,70 @@
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\bin\Debug\KkpProje.exe.config
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\bin\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\bin\Debug\KkpProje.pdb
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.csprojAssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.Form1.resources
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.Form2.resources
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\KkpProje\KkpProje\obj\Debug\KkpProje.pdb
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\bin\Debug\KkpProje.exe.config
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\bin\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\bin\Debug\KkpProje.pdb
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.csprojAssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form1.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form2.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.pdb
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form3.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form4.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Operatorler.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Bakımcılar.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.BakimTalepleri.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.PeriyodikBakim.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Preshane.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.YedekParcalar.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.BakimcilarRapor.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\bin\Debug\KkpProje.exe.config
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\bin\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\bin\Debug\KkpProje.pdb
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.csprojAssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.BakimcilarRapor.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.BakimTalepleri.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Bakımcılar.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form1.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form2.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form3.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Form4.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Operatorler.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.PeriyodikBakim.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Preshane.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.YedekParcalar.resources
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\Notlar\6. Dönem Notları\Kurumsal Kaynak Planlama\Grup Ödevi\KkpProje\KkpProje\obj\Debug\KkpProje.pdb
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\bin\Debug\KkpProje.exe.config
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\bin\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\bin\Debug\KkpProje.pdb
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.csprojAssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.BakimcilarRapor.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.BakimTalepleri.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Bakımcılar.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Form1.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Form2.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Form3.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Form4.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Operatorler.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.PeriyodikBakim.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Preshane.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.YedekParcalar.resources
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.exe
+C:\Users\OGUZHAN\Desktop\Notlar\Projeler ve Ödevler\Kurumsal Kaynak Planlaması Proje\KkpProje\KkpProje\obj\Debug\KkpProje.pdb
